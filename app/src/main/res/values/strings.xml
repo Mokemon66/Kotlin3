@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="registrar">Registrar</string>
+    <string name="nombre">Nombre:</string>
+    <string name="usuario">Usuario:</string>
+    <string name="contra">Contraseña:</string>
+    <string name="fecha">Fecha Nacimiento:</string>
+    <string name="foto">Foto</string>
+    <string name="camara">Camara</string>
+    <string name="fotoPerfil">Foto de Perfil</string>
+    <string name="galeria">Galeria</string>
+    <string name="entrada">Bienvenido</string>
+    <string name="noRegistrado">¿No tienes cuenta? Registrate</string>
+    <string name="login">Login</string>
+    <string name="mensajeUsuarioExiste">Ese Usuario ya existe</string>
+    <string name="mensajeUsuarioNoExiste">Ese Usuario no existe o Contraseña Incorrecta</string>
+    <string name="mensajeRegistrarExito">Registrado Correctamente</string>
+    <string name="mensajeDialog">¿Que Acción quiere Realizar?</string>
+    <string name="mensajeOpcionesFoto">Elige una opción</string>
+    <string name="mensajeSalir">¿Seguro que quieres salir?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="elimnar">Eliminar</string>
+    <string name="modificar">Modificar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="admin">Administrador</string>
+
+</resources>
